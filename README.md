@@ -35,7 +35,7 @@ npx @backstage/create-app
 * `Python` version - `3.11.5` (used `conda`). [More...](https://www.rosehosting.com/blog/how-to-install-miniconda-on-ubuntu-22-04/)
 * `gcc` version - `12.1.0`
 
-I installed `gcc` through `conda` to avoid compatibility issue (between other packages). [More...](https://github.com/rstudio/reticulate/issues/1282)
+I installed `gcc` through `conda` to avoid compatibility issue (between other packages). [More...](https://github.com/rstudio/reticulate/issues/1282#issuecomment-1788330719)
 
 ```bash
 conda install -c conda-forge gcc=12.1.0
