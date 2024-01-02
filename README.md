@@ -45,7 +45,7 @@ PS: `backstage.io` to work as we expected, `python` and `gcc` are very much nece
 
 ### Some screenshots from my local setup
 
-![image](https://github.com/actionanand/ar-backstage/assets/46064269/24faf7a4-6b51-4eca-9695-e761d61e6b7e)
+![image](https://github.com/actionanand/ar-backstage/assets/46064269/d6be98bc-db16-4109-a9c9-d7f4bf24cf89)
 
 ![image](https://github.com/actionanand/ar-backstage/assets/46064269/7b8c29bc-9b34-42f1-8be5-1ab758fca1e1)
 
